@@ -2,8 +2,8 @@
 
 Um desafio técnico da empresa Pravaler, feito por William Santos
 
-## Commo rodar o projeto
+## Como rodar o projeto
 
 Baixe esse projeto, com um dispositivo ou emulador rodando, faça os comandos:
-    flutter pub get
-    flutter run
+###    flutter pub get
+###    flutter run
