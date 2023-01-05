@@ -1,6 +1,6 @@
 # pravaler_gamelist
 
-Um desafio técnico da empresa Pravaler, feito por William Santos
+Um desafio técnico feito por William Santos
 
 ## Como rodar o projeto
 
