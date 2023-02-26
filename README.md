@@ -1,4 +1,4 @@
-# pravaler_gamelist
+# freetogame_gamelist
 
 Um desafio técnico feito por William Santos
 
